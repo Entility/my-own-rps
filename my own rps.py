@@ -57,7 +57,7 @@ def rps_function():
     else:
         print('Draw')
     Continue=input("Do you want to continue - yes or no")
-    if continue="yes":
+    if Continue="yes":
         rps_function()
 rps_function()
 
